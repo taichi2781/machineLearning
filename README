@@ -15,4 +15,10 @@ For github
     git push origion master
 
 
+For python
+
+    setting
+    type "pyrun"
+    type "tf"
+    python file_name
 
